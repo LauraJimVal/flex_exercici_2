@@ -223,8 +223,8 @@ footer > div{
 
     .flex-container > div:last-child{
         flex: none;
-        margin-top: -270px;
-        margin-left: 180px;
+        margin-top: -230px;
+        margin-left: 230px;
     }
 
     .flex-container > div:last-child img{
